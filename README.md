@@ -13,4 +13,4 @@ the weights file is present inside the `model_weights` directory with name as `g
 - it uses tiktoken for tokenization with a vocabulary size of 50304.
 
 ## accuracy & prediciton
-currently, the model has very poor accuracy and prediction, it's blabbering as of now, with some degree of meaningfulness to it.
+currently, the model has poor accuracy and prediction with loss of around 5.6 (for decent results it should be around 3.0 if not less). it's blabbering as of now, with some degree of meaningfulness to it.
